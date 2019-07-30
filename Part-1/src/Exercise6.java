@@ -10,7 +10,7 @@ public class Exercise6 {
         System.out.print("Input first number: ");
         double num1 = scanner.nextDouble();
         System.out.print("\n");
-        System.out.print("Input first number: ");
+        System.out.print("Input second number: ");
         double num2 = scanner.nextDouble();
         System.out.println(num1 + " + " + num2 + " = " + (num1+num2));
         System.out.println(num1 + " - " + num2 + " = " + (num1-num2));
