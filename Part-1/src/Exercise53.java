@@ -18,7 +18,6 @@ public class Exercise53 {
         double number3 = scan.nextDouble();
         boolean result = test(number1,number2,number3,true);
         System.out.println("The result is: " + result);
-
     }
     private static boolean test(double a,double b,double c,boolean abc){
         if(abc){
